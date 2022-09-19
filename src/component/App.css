@@ -1,0 +1,22 @@
+.card{
+  text-align: center;
+  background-color: antiquewhite;
+  padding: 20px;
+  border-radius: 10px;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap:20px
+}
+.footer{
+  text-align: center;
+  background-color: grey;
+  padding: 30px;
+  margin-top: 20px;
+  color:white;
+}
+.header{
+  text-align: center;
+  background-color: grey;
+  padding: 30px;
+  color:white;
+}
